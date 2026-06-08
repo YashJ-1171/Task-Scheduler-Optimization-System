@@ -1,0 +1,8 @@
+TaskID,Name,Deadline,Profit
+1,Database Backup,4,20
+2,API Rate Limiting,1,10
+3,Cache Clearance,1,40
+4,Send Newsletters,1,30
+5,Process Payments,3,50
+6,Log Rotation,3,15
+7,Train ML Model,4,60
