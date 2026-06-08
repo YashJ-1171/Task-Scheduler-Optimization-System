@@ -1,0 +1,11 @@
+# Compiled Object files and Executables
+*.o
+*.out
+*.exe
+scheduler
+
+# MacOS specific (just in case)
+*.dSYM/
+
+# Auto-generated reports
+outputs/schedule_report.csv
